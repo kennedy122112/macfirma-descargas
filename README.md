@@ -1,7 +1,7 @@
 # MacFirma
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/kennedy122112/macfirma-descargas?style=for-the-badge&label=versión&color=blue" alt="Versión">
+  <img src="https://img.shields.io/badge/versión-0.5-blue?style=for-the-badge" alt="Versión 0.5">
   <img src="https://img.shields.io/badge/macOS-11_o_posterior-555555?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 11 o posterior">
   <img src="https://img.shields.io/badge/chip_Apple_·_Intel-DE0A0A?style=for-the-badge" alt="Chip Apple e Intel">
   <img src="https://img.shields.io/badge/precio-gratis-green?style=for-the-badge" alt="Gratis">
